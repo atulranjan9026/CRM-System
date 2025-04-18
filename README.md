@@ -1,1 +1,1 @@
-# Engineered a Notion-like CRM system using React.js, improving team productivity via real-time collaboration features. Optimized frontend performance by 40% using modular components and efficient state management.
+Engineered a Notion-like CRM system using React.js, improving team productivity via real-time collaboration features. Optimized frontend performance by 40% using modular components and efficient state management.
